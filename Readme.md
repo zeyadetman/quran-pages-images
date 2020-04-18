@@ -4,6 +4,8 @@ Public API to get quran (Moshaf) pages as jpg images
 
 ## APIs
 
+This API lives here `https://quran-pages.herokuapp.com/`.
+
 1. Generating API Key to auth.
 
 ```curl
