@@ -13,7 +13,11 @@
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "axios": "^0.19.2",
+    "bcrypt": "^4.0.1",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.9",
     "nodemon": "^2.0.3",
     "puppeteer": "^3.0.0"
   }
